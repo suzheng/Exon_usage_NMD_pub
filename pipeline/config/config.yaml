@@ -1,0 +1,5 @@
+#module add star/2.7.9a
+ref_genome: /srv/scratch/oateslab/share/data/hg38/STAR2.7.9_ref_index/STAR2.7.9_index/
+#Singuarlity image directory
+SI: /srv/scratch/oateslab/softwares/singularityImages/
+
